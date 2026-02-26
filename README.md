@@ -1,5 +1,4 @@
 # Compile Boost
-
 ## Boost C++ Libraries
 
 The Boost project provides free peer-reviewed portable C++ source libraries.
@@ -17,6 +16,7 @@ git submodule update --init --recursive
 ```
 
 ```bash
+* Using cmd.
 boostrap.bat
 ./b2
 ```
