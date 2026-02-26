@@ -16,7 +16,7 @@ git submodule update --init --recursive
 ```
 
 ```bash
-* Using cmd.
+*** Using cmd.
 boostrap.bat
 ./b2
 ```
