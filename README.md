@@ -4,7 +4,7 @@ The Boost project provides free peer-reviewed portable C++ source libraries.
 
 How to compile Windows
 
-´´´bash
+```bash
 cd C:\
 git clone https://github.com/boostorg/boost.git
 cd boost
