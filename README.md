@@ -1,4 +1,4 @@
-# Compile Boost Windows
+# Compile Boost
 
 ## Boost C++ Libraries
 
