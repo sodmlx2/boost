@@ -1,4 +1,6 @@
-# Boost C++ Libraries
+# Compile Boost Windows
+
+## Boost C++ Libraries
 
 The Boost project provides free peer-reviewed portable C++ source libraries.
 
